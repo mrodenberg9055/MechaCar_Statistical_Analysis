@@ -17,7 +17,9 @@
 - We can see that the mean of the data set for all lots is 1497.78, and with a p value of .06 which is higher than our .05 level of significance so we don't have enough evidence to reject the null hypothosis.  
 
 ## Study Design: MechaCar vs Competition
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+- One study that we could do is see how MechaCar is priced vs the competition with similar attibutes.
+- Metrics that we will test are going to be Safety Rating, Fuel Efficency, and Maintenance cost.  When purchasing a new car there are a lot of variables that come into play so we could change these around to perform different tests. 
+- The Null Hypotosis is that MechaCar is priced appropriately based on the factors considered. 
+- The Alternative would be that the MechaCar is Not priced appropriately based on the factors considered. 
+- We will use a multiple Linear regression to determine which variables have the highest impact on the price of the vehicles. 
+
